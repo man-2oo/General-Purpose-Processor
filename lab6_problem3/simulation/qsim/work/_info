@@ -1,0 +1,62 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\man2oo\Documents\Lab6\lab6_problem1\simulation\qsim
+vreg
+Z1 ICf^WT_;kbAG?PVS<[le^M0
+Z2 VSMYfWkeU:z]@3fBNfQPf63
+Z3 dC:\Users\man2oo\Documents\Lab6\lab6_problem1\simulation\qsim
+Z4 w1764570998
+Z5 8problem1.vo
+Z6 Fproblem1.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|problem1.vo|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 4;AG2D1jc=ObJ89@LQXiR2
+!s85 0
+Z11 !s108 1764570999.056000
+Z12 !s107 problem1.vo|
+!s101 -O0
+vreg_vlg_check_tst
+!i10b 1
+Z13 !s100 [BWdYo3WJ?035@?CZ=;_?1
+Z14 I^i4G3DbN7>mkdg:OS?j:O1
+Z15 VMe[:9f2OR04mVldJ3SH?H1
+R3
+R4
+Z16 8problem1.vt
+Z17 Fproblem1.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z18 !s108 1764570999.104000
+Z19 !s107 problem1.vt|
+Z20 !s90 -work|work|problem1.vt|
+!s101 -O0
+R9
+vreg_vlg_sample_tst
+!i10b 1
+!s100 e4m0e[8XD`6dmZ_7l:QOI3
+Ia49j7VSn`KP<Dh92a1PI>3
+Vf]3z;W;?E5COZ`UI@U6?G1
+R3
+R4
+R16
+R17
+L0 29
+R7
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R9
