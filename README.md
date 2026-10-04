@@ -1,5 +1,5 @@
 # Simple General Purpose Processor
-A simplified processor system designed and implemented in VHDL using Quartus II 13.0 as part of a COE328 digital systems lab. The project demonstrates the design and integration of registers/latches, a finite state machine (FSM), decoder, and multiple Arithmetic Logic Units (ALUs).
+A simplified processor system designed and implemented in VHDL using Quartus II 13.0 as part of the digital systems final lab project. The project demonstrates the design and integration of registers/latches, a finite state machine (FSM), decoder, and multiple Arithmetic Logic Units (ALUs).
 
 ## Highlights
 - 8-bit latches to store and process input values.
